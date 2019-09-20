@@ -1,0 +1,20 @@
+C:\Users\Web App Develop .Net\source\repos\newbox\newbox\bin\Debug\newbox.exe.config
+C:\Users\Web App Develop .Net\source\repos\newbox\newbox\bin\Debug\newbox.exe
+C:\Users\Web App Develop .Net\source\repos\newbox\newbox\bin\Debug\newbox.pdb
+C:\Users\Web App Develop .Net\source\repos\newbox\newbox\obj\Debug\newbox.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\source\repos\newbox\newbox\obj\Debug\newbox.Form1.resources
+C:\Users\Web App Develop .Net\source\repos\newbox\newbox\obj\Debug\newbox.Properties.Resources.resources
+C:\Users\Web App Develop .Net\source\repos\newbox\newbox\obj\Debug\newbox.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\source\repos\newbox\newbox\obj\Debug\newbox.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\source\repos\newbox\newbox\obj\Debug\newbox.exe
+C:\Users\Web App Develop .Net\source\repos\newbox\newbox\obj\Debug\newbox.pdb
+F:\newbox\newbox\bin\Debug\newbox.exe.config
+F:\newbox\newbox\bin\Debug\newbox.exe
+F:\newbox\newbox\bin\Debug\newbox.pdb
+F:\newbox\newbox\obj\Debug\newbox.csprojResolveAssemblyReference.cache
+F:\newbox\newbox\obj\Debug\newbox.Form1.resources
+F:\newbox\newbox\obj\Debug\newbox.Properties.Resources.resources
+F:\newbox\newbox\obj\Debug\newbox.csproj.GenerateResource.Cache
+F:\newbox\newbox\obj\Debug\newbox.csproj.CoreCompileInputs.cache
+F:\newbox\newbox\obj\Debug\newbox.exe
+F:\newbox\newbox\obj\Debug\newbox.pdb
